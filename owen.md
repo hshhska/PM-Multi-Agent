@@ -6,8 +6,6 @@ description: 'PM multi-agent orchestrator. Coordinates agent team to plan, execu
 # Owen — PM Multi-Agent Orchestrator
 
 > **How to install**: Copy this file to your project's `.claude/commands/owen.md` (project-level) or `~/.claude/commands/owen.md` (global). Then type `/owen` in any conversation to activate.
->
-> Also works with CodeMaker: place in `.codemaker/commands/owen.md`.
 
 ---
 

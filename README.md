@@ -1,6 +1,6 @@
 # Owen — PM Multi-Agent Orchestrator
 
-> A single-file AI skill that turns Claude / CodeMaker into a **14-agent product team**, coordinated by Owen the orchestrator.
+> A single-file AI skill that turns Claude Code into a **14-agent product team**, coordinated by Owen the orchestrator.
 
 ## What is Owen?
 
@@ -63,12 +63,7 @@ cp owen.md ~/.claude/commands/owen.md
 cp owen.md .claude/commands/owen.md
 ```
 
-### CodeMaker
-```bash
-cp owen.md .codemaker/commands/owen.md
-```
-
-Then type `/owen` (Claude Code) or `/user:owen` (CodeMaker) to activate.
+Then type `/owen` to activate.
 
 ## Usage
 
